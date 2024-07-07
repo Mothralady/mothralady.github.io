@@ -4,9 +4,9 @@ layout: home
 permalink: /
 ---
 
-## seek and you shall find
+<h6> seek and you shall find </h6>
+<br>
 
 
-
-
-## my blog
+<br>
+<h6> my blog </h6>
