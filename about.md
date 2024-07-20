@@ -23,6 +23,14 @@ a non-profit organization I founded to support musicians by offering bands free 
 currently, I am starting a small indie game studio in Austin, Texas with my friend, Janine May. We're creating games for the girls! Our first game is a cozy farming sim with a sinister twist!
 <br> 
 
+##### Wiki Maker
+for the last few years I gave myself a challenge by picking an IP and playing every single game in that IP **100%**. First it was **Final Fantasy**, in 2023 it was [**Resident Evil**](https://ninth-house-d19.notion.site/Resident-Evil-HQ-3809f680921542d18b730fc0520d4eeb?pvs=74), and in 2024 it is **Dark Souls**. For some reason I felt the need to make my own wikis in this quest, you can view them if you like:
+- [Dark Souls II](https://ninth-house-d19.notion.site/Dark-Souls-2-SotFS-9a5b77831f2b49d88bdafa7e46eef45b?pvs=4)
+- [Dark Souls](https://ninth-house-d19.notion.site/Dark-Souls-Remastered-6ecfb616448e42fabbdfa9fcbfe1b978?pvs=74)
+- [Resident Evil Revelations](https://ninth-house-d19.notion.site/Revelations-Guides-e213c7fa246b427eb977b1eb6a3f9b97)
+- [Resident Evil Revelations 2](https://ninth-house-d19.notion.site/Revelations-2-Guides-9b559ba07a094dffa151b178f429075c)
+<br>
+
 ## Skills and Experience
 
 #### Fullstack Frau
