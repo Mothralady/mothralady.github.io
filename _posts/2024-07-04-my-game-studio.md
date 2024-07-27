@@ -1,9 +1,11 @@
 ---
+title: My Game Studio
+date: 2024-07-04 11:32:45 Z
+categories:
+- redheads
 layout: post
-title:  "My Game Studio"
-date:   2024-07-04 12:32:45 +0100
-categories: redheads
 ---
+
 current mood: [brat](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7?si=45jwflgrQ0-hSY0F2MHKMA) by charli xcx
 <br>
 <br>

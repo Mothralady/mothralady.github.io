@@ -1,19 +1,21 @@
-title: 'Juliya Gannon'
-description: "Full-stack Web Developer"
-url: "https://mothralady.github.io"
-
+---
+title: Juliya Gannon
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: Full-stack Web Developer
+url: https://mothralady.github.io
 google_analytics: G-5PKJ4J6H0D
-
 header_pages:
-  - index.md
-  - about.md
-
+- index.md
+- about.md
 style: hacker
-
-footer: 'do you like <a href="https://redheads.dev">redheads</a>?'
-
+footer: do you like <a href="https://redheads.dev">redheads</a>?
 plugins:
-  - jekyll-seo-tag
-
-# Build Settings
+- jekyll-seo-tag
 markdown: kramdown

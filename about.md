@@ -1,7 +1,7 @@
 ---
+title: "/about"
+permalink: "/about/"
 layout: page
-title: /about
-permalink: /about/
 ---
 
 I'm **Juliya**. Just a weird chick living in Texas with access to the internet.

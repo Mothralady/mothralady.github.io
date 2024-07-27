@@ -1,7 +1,7 @@
 ---
-title: '/juliya'
+title: "/juliya"
+permalink: "/"
 layout: home
-permalink: /
 ---
 
 <h6> seek and you shall find </h6>
